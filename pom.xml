@@ -26,9 +26,9 @@
 					<inputDirectory>${project.build.directory}/input</inputDirectory>
 					<inputFile>my.properties</inputFile>
 
-					<outputDirectory>${project.build.directory}/output</outputDirectory>					
+					<outputDirectory>${project.build.directory}/output</outputDirectory>
 					<outputFile>my_new.properties</outputFile>
-					
+
 
 				</configuration>
 				<executions>
